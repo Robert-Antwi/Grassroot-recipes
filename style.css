@@ -24,15 +24,18 @@ h3 {
     color: rgb(128, 0, 128);
 }
 p {
-    color: purple;
+    color: #800080;
     font-size: 25px;
 }
 .sub-heading,
 .heading {
     font-size: 27px;
-    color: orange;
+    color: hsl(39, 100%, 50%);
 }
 .list-items,
 .list {
     font-size: 25px;
+}
+.text {
+    color: lightgray;
 }
